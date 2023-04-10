@@ -1,0 +1,15 @@
+Download Packer
+https://releases.hashicorp.com/packer/
+
+Chocolatey - Package Manager for Windows
+https://chocolatey.org/
+
+Homebrew - Package Manager for MacOS
+https://brew.sh/
+
+Lab - Install Packer
+https://github.com/btkrausen/hashicorp/blob/master/packer/Lab%200%20-%20Install%20Packer.md
+
+Lab 2 - Packer CLI
+https://github.com/btkrausen/hashicorp/blob/master/packer/Lab%2002%20-%20Packer%20CLI.md
+

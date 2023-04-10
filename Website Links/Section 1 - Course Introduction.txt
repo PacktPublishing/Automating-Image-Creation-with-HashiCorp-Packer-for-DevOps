@@ -1,0 +1,20 @@
+GitHub - Course Content
+https://github.com/btkrausen/hashicorp
+
+Twitter - Bryan
+https://twitter.com/btkrausen
+
+Twitter - Gabe
+https://twitter.com/gmaentz
+
+Official Site - HashiCorp Packer
+https://www.packer.io/
+
+Blog - Gabe
+http://www.maentz.net/
+
+Newsletter - Bryan
+https://www.krausen.io/
+
+HashiCorp Learn Platform - Packer
+https://developer.hashicorp.com/packer/tutorials

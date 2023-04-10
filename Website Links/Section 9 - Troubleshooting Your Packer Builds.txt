@@ -1,0 +1,5 @@
+Lab - Debugging Packer
+https://github.com/btkrausen/hashicorp/blob/master/packer/Lab%2012%20-%20Packer%20Debug.md
+
+Lab - Packer Breakpoints
+https://github.com/btkrausen/hashicorp/blob/master/packer/Lab%2013%20-%20Packer%20Breakpoints.md

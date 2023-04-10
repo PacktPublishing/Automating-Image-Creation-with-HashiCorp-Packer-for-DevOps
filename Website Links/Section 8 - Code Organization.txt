@@ -1,0 +1,5 @@
+Lab - Code Organization
+https://github.com/btkrausen/hashicorp/blob/master/packer/Lab%2010%20-%20Code%20Organization.md
+
+Lab - Target Clouds and Build Types using Packer
+https://github.com/btkrausen/hashicorp/blob/master/packer/Lab%2011%20-%20Targeting%20Cloud%20Builds.md

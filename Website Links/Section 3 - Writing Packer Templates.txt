@@ -1,0 +1,6 @@
+Lab - Migrating JSON to HCL2
+https://github.com/btkrausen/hashicorp/blob/master/packer/Lab%20Optional%20-%20Converting%20Packer%20JSON%20Templates%20to%20HCL.md
+
+Lab - Write a Packer Template
+https://github.com/btkrausen/hashicorp/blob/master/packer/Lab%2001%20-%20Writing%20Packer%20Template.md
+

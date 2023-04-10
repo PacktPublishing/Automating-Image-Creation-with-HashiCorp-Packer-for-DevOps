@@ -1,0 +1,11 @@
+Lab - Integrating Packer with Ansible
+https://github.com/btkrausen/hashicorp/blob/master/packer/Lab%2014%20-%20Packer%20and%20Ansible.md
+
+Lab - Integrating Packer with Terraform
+https://github.com/btkrausen/hashicorp/blob/master/packer/Lab%2015%20-%20Packer%20and%20Terraform.md
+
+GitHub - Vault KV V2 Demo Template
+https://github.com/btkrausen/hashicorp/blob/master/packer/demo/vault/vault_integration.pkr.hcl
+
+GitHub - AWS Secrets Engine Demo Template
+https://github.com/btkrausen/hashicorp/blob/master/packer/demo/vault/vault_aws_engine.pkr.hcl

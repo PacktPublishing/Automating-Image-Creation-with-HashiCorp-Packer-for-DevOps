@@ -1,0 +1,2 @@
+Lab - Utilize Variables with Packer Templates
+https://github.com/btkrausen/hashicorp/blob/master/packer/Lab%2006%20-%20Packer%20Variables.md
