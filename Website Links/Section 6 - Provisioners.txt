@@ -1,5 +1,0 @@
-The provisioner block
-https://developer.hashicorp.com/packer/docs/templates/hcl_templates/blocks/build/provisioner
-
-Lab - Packer Provisioners
-https://github.com/btkrausen/hashicorp/blob/master/packer/Lab%2004%20-%20Provisioners.md
